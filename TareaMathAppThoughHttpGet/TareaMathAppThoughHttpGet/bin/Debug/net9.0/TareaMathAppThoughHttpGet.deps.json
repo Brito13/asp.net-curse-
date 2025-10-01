@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TareaMathAppThoughHttpGet/1.0.0": {
+        "runtime": {
+          "TareaMathAppThoughHttpGet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaMathAppThoughHttpGet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
