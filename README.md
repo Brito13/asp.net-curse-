@@ -19,7 +19,3 @@ This exercise helped me understand how ASP.NET Core processes HTTP communication
 I’m enjoying diving deeper into how ASP.NET Core handles web communication under the hood — it’s fascinating to see how everything ties together behind a simple browser request.
 
 #ASPNetCore #CSharp #WebDevelopment #SoftwareEngineering #LearningJourney #HTTP #BackendDevelopment
-
----
-
-Would you like me to make it sound a bit **more casual** (like a student learning post) or **more professional** (as for a portfolio or recruiter audience)?
